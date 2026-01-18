@@ -9,8 +9,8 @@ GetCoordinatesAndFigure()
 
 
 
-abs_x = abs(x_final - x_start)
-abs_y = abs(y_final - y_start)
+const abs_x = abs(x_final - x_start)
+const abs_y = abs(y_final - y_start)
 
 
 
